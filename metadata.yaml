@@ -1,5 +1,8 @@
 _repo: Talk-about-Socialism-with-an-old-shopmate_62420
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62420-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62420#Talk-about-Socialism-with-an-old-shopmate
 gutenberg_issued: '2020-06-18'
 gutenberg_type: Text
 identifiers:
