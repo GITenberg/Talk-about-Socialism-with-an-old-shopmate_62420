@@ -1,0 +1,26 @@
+_repo: Talk-about-Socialism-with-an-old-shopmate_62420
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2020-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Socialism and Christianity'
+- GITenberg
+title: Talk about Socialism with an old shopmate
+url: http://www.gutenberg.org/ebooks/62420
